@@ -4,6 +4,7 @@ Website-Rating
 Easy way to rate the overall website and display the rating values with colorful graph - Wordpress Plugin
 
 == Description ==
+
 Easy way to rate the overall website and display the rating values with colorful graph.
 
 Through this plugin user can,
@@ -31,8 +32,11 @@ v 1.0
 For  More information : http://buffercode.com/wordpress-website-rating-plugin/
 
 == Changelog ==
+
 = 1.2 =
+
 * Minor bug fixes
 
 = 1.0 =
+
 * Public release
